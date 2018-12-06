@@ -7,3 +7,4 @@ The example is pretty straight forward in that it shows how having an interface 
 
 Notes:
 Also, as interfaces are mostly used by clients, the client might not be able to modify the inerface provided.
+YAGNI- You ain't gonna need it(why force other people to implement)
