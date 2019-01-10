@@ -11,3 +11,4 @@ Monostate does not give any indication of it being a singleton. Monostate provid
 Notes:
 1. BasicSingleton defeated by using Reflection API
 2. BasicSingleton has issues with Serialization/Deserialization
+3. Instead of directly using a concrete implementation of a singleton, consider depending on an abstraction
