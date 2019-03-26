@@ -7,7 +7,6 @@ import org.springframework.statemachine.transition.Transition;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.Collection;
 import java.util.EnumSet;
 import java.util.List;
 import java.util.stream.Collectors;
